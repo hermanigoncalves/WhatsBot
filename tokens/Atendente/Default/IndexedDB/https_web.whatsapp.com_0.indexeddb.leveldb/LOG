@@ -1,0 +1,61 @@
+2023/03/01-13:39:32.785 17c4 Creating DB C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\Atendente\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/03/01-13:39:32.818 17c4 Reusing MANIFEST C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\Atendente\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/01-13:39:33.522 17c4 Level-0 table #5: started
+2023/03/01-13:39:33.545 17c4 Level-0 table #5: 7197 bytes OK
+2023/03/01-13:39:33.558 17c4 Delete type=0 #3
+2023/03/01-13:39:33.560 17c4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/01-13:41:14.083 22c4 Level-0 table #7: started
+2023/03/01-13:41:14.550 22c4 Level-0 table #7: 1068051 bytes OK
+2023/03/01-13:41:14.563 22c4 Delete type=0 #4
+2023/03/01-13:41:35.210 22c4 Level-0 table #9: started
+2023/03/01-13:41:35.486 22c4 Level-0 table #9: 1314877 bytes OK
+2023/03/01-13:41:35.500 22c4 Delete type=0 #6
+2023/03/01-13:41:35.509 22c4 Compacting 1@0 + 1@1 files
+2023/03/01-13:41:36.377 22c4 Generated table #10@0: 44314 keys, 1824008 bytes
+2023/03/01-13:41:36.377 22c4 Compacted 1@0 + 1@1 files => 1824008 bytes
+2023/03/01-13:41:36.389 22c4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/01-13:41:37.112 22c4 Level-0 table #12: started
+2023/03/01-13:41:37.297 22c4 Level-0 table #12: 1141320 bytes OK
+2023/03/01-13:41:37.315 22c4 Delete type=2 #7
+2023/03/01-13:41:37.315 22c4 Delete type=0 #8
+2023/03/01-13:41:37.315 22c4 Delete type=2 #9
+2023/03/01-13:41:37.330 22c4 Compacting 1@0 + 1@1 files
+2023/03/01-13:41:38.084 22c4 Generated table #13@0: 49007 keys, 2211198 bytes
+2023/03/01-13:41:38.274 22c4 Generated table #14@0: 7374 keys, 384587 bytes
+2023/03/01-13:41:38.274 22c4 Compacted 1@0 + 1@1 files => 2595785 bytes
+2023/03/01-13:41:38.281 22c4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/01-13:41:38.282 22c4 Delete type=2 #10
+2023/03/01-13:41:38.282 22c4 Delete type=2 #12
+2023/03/01-13:42:15.466 d1c Level-0 table #16: started
+2023/03/01-13:42:15.905 d1c Level-0 table #16: 984666 bytes OK
+2023/03/01-13:42:15.914 d1c Delete type=0 #11
+2023/03/01-13:42:16.563 d1c Compacting 1@0 + 2@1 files
+2023/03/01-13:42:17.405 d1c Generated table #17@0: 66850 keys, 2232138 bytes
+2023/03/01-13:42:17.991 d1c Generated table #18@0: 26133 keys, 903607 bytes
+2023/03/01-13:42:17.991 d1c Compacted 1@0 + 2@1 files => 3135745 bytes
+2023/03/01-13:42:17.997 d1c compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/01-13:42:53.679 d1c Level-0 table #20: started
+2023/03/01-13:42:54.160 d1c Level-0 table #20: 967279 bytes OK
+2023/03/01-13:42:54.170 d1c Delete type=2 #13
+2023/03/01-13:42:54.170 d1c Delete type=2 #14
+2023/03/01-13:42:54.170 d1c Delete type=0 #15
+2023/03/01-13:42:54.170 d1c Delete type=2 #16
+2023/03/01-13:42:54.846 17c4 Compacting 1@0 + 2@1 files
+2023/03/01-13:42:56.041 17c4 Generated table #21@0: 87140 keys, 2254632 bytes
+2023/03/01-13:42:56.399 17c4 Generated table #22@0: 40616 keys, 1407583 bytes
+2023/03/01-13:42:56.399 17c4 Compacted 1@0 + 2@1 files => 3662215 bytes
+2023/03/01-13:42:56.405 17c4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/01-13:43:28.634 17c4 Level-0 table #24: started
+2023/03/01-13:43:28.906 17c4 Level-0 table #24: 1000297 bytes OK
+2023/03/01-13:43:28.914 17c4 Delete type=2 #17
+2023/03/01-13:43:28.914 17c4 Delete type=2 #18
+2023/03/01-13:43:28.914 17c4 Delete type=0 #19
+2023/03/01-13:43:28.914 17c4 Delete type=2 #20
+2023/03/01-13:43:29.794 d1c Compacting 1@0 + 2@1 files
+2023/03/01-13:43:30.838 d1c Generated table #25@0: 107553 keys, 2279603 bytes
+2023/03/01-13:43:31.932 d1c Generated table #26@0: 58571 keys, 1996990 bytes
+2023/03/01-13:43:31.932 d1c Compacted 1@0 + 2@1 files => 4276593 bytes
+2023/03/01-13:43:31.938 d1c compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/01-13:43:31.939 d1c Delete type=2 #21
+2023/03/01-13:43:31.939 d1c Delete type=2 #22
+2023/03/01-13:43:31.939 d1c Delete type=2 #24

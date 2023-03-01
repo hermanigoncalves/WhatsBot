@@ -1,0 +1,50 @@
+2023/03/01-13:24:58.481 1b64 Creating DB C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/03/01-13:24:58.508 1b64 Reusing MANIFEST C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/01-13:24:58.665 bc4 Level-0 table #5: started
+2023/03/01-13:24:58.685 bc4 Level-0 table #5: 7197 bytes OK
+2023/03/01-13:24:58.698 bc4 Delete type=0 #3
+2023/03/01-13:24:58.699 bc4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/03/01-13:26:20.433 1b64 Level-0 table #7: started
+2023/03/01-13:26:20.954 1b64 Level-0 table #7: 1141662 bytes OK
+2023/03/01-13:26:20.970 1b64 Delete type=0 #4
+2023/03/01-13:26:22.285 1b64 Level-0 table #9: started
+2023/03/01-13:26:22.637 1b64 Level-0 table #9: 1326379 bytes OK
+2023/03/01-13:26:22.650 1b64 Delete type=0 #6
+2023/03/01-13:26:22.681 1b64 Compacting 1@0 + 1@1 files
+2023/03/01-13:26:23.307 1b64 Generated table #10@0: 39725 keys, 2042644 bytes
+2023/03/01-13:26:23.307 1b64 Compacted 1@0 + 1@1 files => 2042644 bytes
+2023/03/01-13:26:23.318 1b64 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/01-13:26:23.325 1b64 Delete type=2 #7
+2023/03/01-13:26:23.325 1b64 Delete type=2 #9
+2023/03/01-13:26:30.273 bc4 Level-0 table #12: started
+2023/03/01-13:26:30.468 bc4 Level-0 table #12: 1019622 bytes OK
+2023/03/01-13:26:30.480 bc4 Delete type=0 #8
+2023/03/01-13:26:30.505 2af0 Compacting 1@0 + 1@1 files
+2023/03/01-13:26:31.075 2af0 Generated table #13@0: 48696 keys, 2219050 bytes
+2023/03/01-13:26:31.167 2af0 Generated table #14@0: 9821 keys, 334433 bytes
+2023/03/01-13:26:31.167 2af0 Compacted 1@0 + 1@1 files => 2553483 bytes
+2023/03/01-13:26:31.173 2af0 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/01-13:26:31.174 2af0 Delete type=2 #10
+2023/03/01-13:26:31.174 2af0 Delete type=2 #12
+2023/03/01-13:27:14.317 1b64 Level-0 table #16: started
+2023/03/01-13:27:14.649 1b64 Level-0 table #16: 1035324 bytes OK
+2023/03/01-13:27:14.656 1b64 Delete type=0 #11
+2023/03/01-13:27:15.541 2af0 Compacting 1@0 + 2@1 files
+2023/03/01-13:27:16.245 2af0 Generated table #17@0: 66435 keys, 2236659 bytes
+2023/03/01-13:27:16.554 2af0 Generated table #18@0: 29434 keys, 914569 bytes
+2023/03/01-13:27:16.554 2af0 Compacted 1@0 + 2@1 files => 3151228 bytes
+2023/03/01-13:27:16.560 2af0 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/01-13:27:16.561 2af0 Delete type=2 #13
+2023/03/01-13:27:16.561 2af0 Delete type=2 #14
+2023/03/01-13:27:16.561 2af0 Delete type=2 #16
+2023/03/01-13:27:55.928 2af0 Level-0 table #20: started
+2023/03/01-13:27:56.632 2af0 Level-0 table #20: 956858 bytes OK
+2023/03/01-13:27:56.639 2af0 Delete type=0 #15
+2023/03/01-13:27:57.204 2af0 Compacting 1@0 + 2@1 files
+2023/03/01-13:27:58.864 2af0 Generated table #21@0: 84872 keys, 2260438 bytes
+2023/03/01-13:27:59.448 2af0 Generated table #22@0: 45438 keys, 1413549 bytes
+2023/03/01-13:27:59.448 2af0 Compacted 1@0 + 2@1 files => 3673987 bytes
+2023/03/01-13:27:59.454 2af0 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/01-13:27:59.455 2af0 Delete type=2 #17
+2023/03/01-13:27:59.455 2af0 Delete type=2 #18
+2023/03/01-13:27:59.455 2af0 Delete type=2 #20

@@ -1,0 +1,4 @@
+2023/03/01-13:35:39.599 23c8 Log #3: 3 ops saved to Table #4 OK
+2023/03/01-13:35:40.605 23c8 Archiving C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\Fechamento\Default\File System\Origins/000003.log: IO error: C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\Fechamento\Default\File System\Origins/000003.log: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
+2023/03/01-13:35:40.605 23c8 Table #4: 3 entries OK
+2023/03/01-13:35:41.619 23c8 Archiving C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\Fechamento\Default\File System\Origins/MANIFEST-000001: IO error: C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\Fechamento\Default\File System\Origins/MANIFEST-000001: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
