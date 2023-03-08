@@ -29,26 +29,40 @@ wppconnect.create({
 .then((client) =>
 client.onMessage(async (message) => {
     if(message.isGroupMsg == false){
-    await client.sendSeen(message.from);
+    //await client.sendSeen(message.from);
     await client.startTyping(message.from, 1200);
-    client.sendFile(message.from, `Eu a 🌑Lua🌑, sua assistente virtual, como posso deixar ${time2} melhor?🙋‍♂️`, {
-        useTemplateButtons: true, // False for legacy
-        buttons: [
-          {
-            id: 'Falar com atendente',
-            text: '🤣😂Contar um piada😂🤣'
-          },
-          {
-            id: '',
-            text: '😊😋Contar um história infantil😋😊'
-          },
-          {
-            id: '',
-            text: '💤Musica de ninar💤'
-          }
-        ],
-        title: `👋Ola ${message.notifyName}, ${time}!`, 
-    });
+    client.sendLinkPreview(message.from,'https://natura.com.vc/04_centro-oeste_e_minas_gerais-c18rt', 'teste ')
+   //client.sendFile( message.from, 'outros/Avon.pdf','Catalogo avon','See my file in pdf')// enviar arquivo
+    // client.sendText(message.from, `Eu a 🌑Lua🌑, sua assistente virtual, como posso deixar ${time2} melhor?🙋‍♂️`, {
+    //     useTemplateButtons: true, // False for legacy
+    //     buttons: [
+    //         {
+    //             url: 'https://wppconnect.io/',
+    //             text: 'WPPConnect Site'
+
+
+    //           },
+    //           {
+    //             url: 'https://wppconnect.io/',
+    //             text: 'WPPConnect Site'
+    //           },
+    //           {
+    //             url: 'https://wppconnect.io/',
+    //             text: 'WPPConnect Site'
+    //           },
+                                
+    //              {
+    //         id: 'Falar com atendente',
+    //         text: '🤣😂Contar um piada😂🤣'
+    //       },
+    //       {
+    //         id: '',
+    //         text: '😊😋Contar um história infantil😋😊'
+    //       },
+        
+    //             ],
+    //     title: `👋Ola ${message.notifyName}, ${time}!`, 
+    // });
     
     }
    })
