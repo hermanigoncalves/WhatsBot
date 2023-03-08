@@ -1,3 +1,16 @@
-2023/03/03-17:59:04.053 39e8 Reusing MANIFEST C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/03-17:59:04.055 39e8 Recovering log #142
-2023/03/03-17:59:04.223 39e8 Reusing old log C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000142.log 
+2023/03/07-13:25:57.489 2eb4 Reusing MANIFEST C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/07-13:25:57.490 2eb4 Recovering log #200
+2023/03/07-13:25:57.574 2eb4 Reusing old log C:\Users\Hermani.DESKTOP-9GQEH3S\OneDrive - WKVE Telecom\Nova pasta\WhatsBot\tokens\bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000200.log 
+2023/03/07-13:28:29.691 1de4 Level-0 table #207: started
+2023/03/07-13:28:29.743 1de4 Level-0 table #207: 1287143 bytes OK
+2023/03/07-13:28:29.747 1de4 Delete type=0 #200
+2023/03/07-13:28:30.389 1de4 Compacting 1@0 + 3@1 files
+2023/03/07-13:28:30.511 1de4 Generated table #208@0: 76770 keys, 2254538 bytes
+2023/03/07-13:28:30.596 1de4 Generated table #209@0: 14680 keys, 2182551 bytes
+2023/03/07-13:28:30.723 1de4 Generated table #210@0: 67392 keys, 1654034 bytes
+2023/03/07-13:28:30.723 1de4 Compacted 1@0 + 3@1 files => 6091123 bytes
+2023/03/07-13:28:30.725 1de4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/03/07-13:28:30.726 1de4 Delete type=2 #202
+2023/03/07-13:28:30.726 1de4 Delete type=2 #203
+2023/03/07-13:28:30.726 1de4 Delete type=2 #204
+2023/03/07-13:28:30.726 1de4 Delete type=2 #207
